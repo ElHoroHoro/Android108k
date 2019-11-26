@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Android108k</string>
+    <string name="txtPrice" />
+    <string name="btn1str">1</string>
+    <string name="btn2Str">2</string>
+    <string name="btn3Str">3</string>
+    <string name="txtDiscount" />
+    <string name="txtTeika">定価：</string>
+    <string name="btn4Str">4</string>
+    <string name="btn5Str">5</string>
+    <string name="btn6Str">6</string>
+    <string name="btn7Str">7</string>
+    <string name="btn8Str">8</string>
+    <string name="btn9Str">9</string>
+    <string name="btn0">0</string>
+    <string name="btn00">00</string>
+    <string name="btnC">C</string>
+    <string name="txtWali">割引率：</string>
+    <string name="txtPay">支払金額</string>
+    <string name="txtPayment" />
+</resources>
+
